@@ -94,5 +94,5 @@ ENV/
 .spyderproject
 
 # Extra
-.runtime
+runtime.txt
 
